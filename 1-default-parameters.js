@@ -1,4 +1,3 @@
-
 // -------------- DEFAULT PARAMENTERS ------------------------------->
 
 
@@ -27,5 +26,6 @@ ES06
 
 var getUsers = function(limit = 10) {
 }
+
 var link = function(height = 50, color = 'red', url = 'http://autoweb.com') {
 }
